@@ -1,0 +1,25 @@
+txt_to_audiobook
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore environment-specific files
+.env
+
+# Ignore compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system and IDE files
+.DS_Store
+.idea/
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore package and distribution files
+dist/
+build/
+*.egg-info/
